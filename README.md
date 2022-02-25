@@ -34,4 +34,5 @@
 <a href= https://github.com/adarshgowdaa > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 <img width ='32px' src ='https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg'> </a>
+<hr>
 

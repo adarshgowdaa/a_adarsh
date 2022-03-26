@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30">  </h1>
  
  
- I'm A Adarsh, a Second Year Student curently pursuing my Bachelor's in Computer Science and Engineering.
+ I'm A Adarsh, a sophomore student pursuing my Bachelor's Degree in Computer Science Engineering.
  
  &nbsp; &nbsp; 
  [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/a-adarsh-76695b17a/) &nbsp; &nbsp;

@@ -4,9 +4,8 @@
  I'm A Adarsh, a Second Year Student curently pursuing my Bachelor's in Computer Science and Engineering.
  
  &nbsp; &nbsp; 
- [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/adarshgowdru_)&nbsp;&nbsp;
- [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/a-adarsh-76695b17a/) &nbsp; &nbsp; 
- [<img alt="Discord" src="https://img.shields.io/badge/Server-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/QHdzrEBwNY) 
+ [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/a-adarsh-76695b17a/) &nbsp; &nbsp;
+ [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/adarshgowda463)&nbsp;&nbsp; 
   
 
 <h2> About Me&nbsp;&nbsp;<img src = "https://cdn2.scratch.mit.edu/get_image/user/67844577_60x60.png" width = 35px></h2>
